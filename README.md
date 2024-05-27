@@ -1,1 +1,17 @@
 # hg_1_dezel
+- Alfa [ ] Christia, Caracas
+- Zulu [ ] Keishmer, Caracas
+- Dezel [X] Carlos, Miranda
+- Tango [ ] Jonathan, Miranda
+- Romeo [ ] Pedro, Maracay
+- Whisky [ ] Alona, Margarita
+- Zero [ ] Julio,
+- Golf [ ] Raykel, Caracas
+- Beta [ ] Edwuard, Caracas
+- Fooxtruckt [ ] Alejandro, 
+- Xray [ ] Jeffrey, Puerto la Cruz
+- Delta [ ]
+- Papa [ ] Samuel, Caracas
+- Eco [ ] Andrés, Maracaibo
+- Bravo [ ] Daniel, Caracas
+- Six [ ]

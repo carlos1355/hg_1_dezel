@@ -1,5 +1,6 @@
 # hg_1_dezel
-- Alfa [ ] Christia, Caracas
+# Nombre de usuario
+- Alfa [ ] Christian, Caracas
 - Zulu [ ] Keishmer, Caracas
 - Dezel [X] Carlos, Miranda
 - Tango [ ] Jonathan, Miranda
@@ -9,7 +10,7 @@
 - Golf [ ] Raykel, Caracas
 - Beta [ ] Edwuard, Caracas
 - Fooxtruckt [ ] Alejandro, 
-- Xray [ ] Jeffrey, Puerto la Cruz
+- Xray [ ] geffry, Puerto la Cruz
 - Delta [ ]
 - Papa [ ] Samuel, Caracas
 - Eco [ ] Andrés, Maracaibo
